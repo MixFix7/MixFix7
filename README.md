@@ -1,7 +1,7 @@
-# Hi there, I'm MixFix7 👋
+# Hi there, I'm Lubomyr Mashtaliar 👋
 
 ## About Me
-I'm a passionate full-stack developer with a strong focus on programming and web application development. My core skills include Python, JavaScript, HTML/CSS, Django, and React.
+I'm a 14 y.o full-stack developer with a strong focus on programming and web application development. My core skills include Python, JavaScript, HTML/CSS, Django, and React.
 
 # My Website
 - https://mixfix333.pythonanywhere.com/
