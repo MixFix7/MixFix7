@@ -26,7 +26,7 @@ I'm a passionate full-stack developer with a strong focus on programming and web
 📫 If you have any questions or suggestions, please feel free to reach out to me:
 
 - GitHub: [MixFix7](https://github.com/MixFix7)
-- Email: [mixfix7@example.com](mailto:mixprog42@example.com)
+- Email: [mixprog42@gmail.com](mailto:mixprog42@gmail.com)
 
 <!-- ## Projects -->
 <!-- Here are some of my notable projects: -->
