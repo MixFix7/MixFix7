@@ -20,7 +20,7 @@ I'm a passionate full-stack developer with a strong focus on programming and web
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical)
 
 ## Activity Chart
-![wakatime](https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg)(https://wakatime.com/@922fb1be-9760-4fc6-85ed-904ccee22f68)
+![wakatime](https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg)
 
 ## Contact Me
 📫 If you have any questions or suggestions, please feel free to reach out to me:
