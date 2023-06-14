@@ -20,7 +20,8 @@ I'm a 14 y.o full-stack developer with a strong focus on programming and web app
 ![MixFix7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixFix7&show_icons=true&count_private=true&hide=stars&theme=radical&custom_title=MixFix7's%20%Github%20%Stats)
 
 ## Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical) -->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## Activity Chart
 ![wakatime](https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg)
