@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: MixFIx7's README
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: MixFix7/README.md@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
