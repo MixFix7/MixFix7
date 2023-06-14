@@ -15,9 +15,13 @@ I'm a 14 y.o full-stack developer with a strong focus on programming and web app
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MixFix7&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact" />
+</div>
 
 ## Statistics
-![MixFix7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixFix7&show_icons=true&count_private=true&hide=stars&theme=radical&custom_title=GitHub%20Stats%20%28This%20Year%29)
+<!-- ![MixFix7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixFix7&show_icons=true&count_private=true&hide=stars&theme=radical&custom_title=GitHub%20Stats%20%28This%20Year%29) -->
 
 ## Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical)
