@@ -21,7 +21,7 @@ I'm a 14 y.o full-stack developer with a strong focus on programming and web app
 
 ## Programming Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical) -->
-<figure><embed src="https://wakatime.com/share/@MixFix7/2bdd7fe6-0b7a-4491-8df3-fc09acf389f6.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MixFix7/aa0d4f31-a62d-4959-b09c-5c4ab86f9832.png" /></a>
 
 ## Activity Chart
 ![wakatime](https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg)
