@@ -31,6 +31,7 @@ I'm a 14 y.o full-stack developer with a strong focus on programming and web app
 
 - GitHub: [MixFix7](https://github.com/MixFix7)
 - Email: [mixprog42@gmail.com](mailto:mixprog42@gmail.com)
+- Telegram: @MixFix7L
 
 <!-- ## Projects -->
 <!-- Here are some of my notable projects: -->
