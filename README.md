@@ -33,6 +33,7 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 - GitHub: [MixFix7](https://github.com/MixFix7)
 - Email: [mixprog42@gmail.com](mailto:mixprog42@gmail.com)
 - Telegram: @MixFix7L
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubomyr-mashtaliar-63842a28a/)
 
 <!-- ## Projects -->
 <!-- Here are some of my notable projects: -->
