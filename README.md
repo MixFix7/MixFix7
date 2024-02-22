@@ -22,7 +22,7 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 
 ## Programming Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical) -->
-<a href="https://wakatime.com/@MixFix7" target="_blank"><img src="https://wakatime.com/share/@MixFix7/aa0d4f31-a62d-4959-b09c-5c4ab86f9832.png" /></a>
+<a href="https://wakatime.com/@MixFix7" target="_blank"><img styles="border-radius: 16px;" src="https://wakatime.com/share/@MixFix7/aa0d4f31-a62d-4959-b09c-5c4ab86f9832.png" /></a>
 
 ## Contact Me
 📫 If you have any questions or suggestions, please feel free to reach out to me:
