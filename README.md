@@ -22,7 +22,7 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 
 ## Programming Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical) -->
-<div style="display: flex; flex-direction: collumn; justify-content: start">
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
   <a href="https://wakatime.com/@MixFix7" target="_blank"><img styles="border-radius: 16px;" src="https://wakatime.com/share/@MixFix7/aa0d4f31-a62d-4959-b09c-5c4ab86f9832.png" /></a>
   <a href="https://wakatime.com/@922fb1be-9760-4fc6-85ed-904ccee22f68"><img src="https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg" alt="Total time coded since May 31 2023" /></a>
 </div>
