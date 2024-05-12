@@ -18,12 +18,12 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 
 
 ## Statistics
-<a href="https://wakatime.com/@922fb1be-9760-4fc6-85ed-904ccee22f68"><img src="https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg" alt="Total time coded since May 31 2023" /></a>
 ![MixFix7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixFix7&show_icons=true&count_private=true&hide=stars&theme=radical&custom_title=MixFix7's%20%Github%20%Stats)
 
 ## Programming Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical) -->
 <a href="https://wakatime.com/@MixFix7" target="_blank"><img styles="border-radius: 16px;" src="https://wakatime.com/share/@MixFix7/aa0d4f31-a62d-4959-b09c-5c4ab86f9832.png" /></a>
+<a href="https://wakatime.com/@922fb1be-9760-4fc6-85ed-904ccee22f68"><img src="https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg" alt="Total time coded since May 31 2023" /></a>
 
 ## Contact Me
 📫 If you have any questions or suggestions, please feel free to reach out to me:
