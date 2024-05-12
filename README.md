@@ -18,6 +18,7 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 
 
 ## Statistics
+<a href="https://wakatime.com/@922fb1be-9760-4fc6-85ed-904ccee22f68"><img src="https://wakatime.com/badge/user/922fb1be-9760-4fc6-85ed-904ccee22f68.svg" alt="Total time coded since May 31 2023" /></a>
 ![MixFix7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixFix7&show_icons=true&count_private=true&hide=stars&theme=radical&custom_title=MixFix7's%20%Github%20%Stats)
 
 ## Programming Languages
