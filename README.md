@@ -4,7 +4,7 @@
 I'm a full-stack developer with a strong focus on programming and web application development. My core skills include Python, JavaScript, TypeScript, HTML/CSS, Django, and React.
 
 # My Website
-- https://mixfix333.pythonanywhere.com
+- https://lubomyr-mashtaliar.web.app
 
 ## Skills & Technologies
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
