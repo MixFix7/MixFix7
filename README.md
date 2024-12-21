@@ -17,9 +17,6 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
-## Statistics
-![MixFix7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixFix7&show_icons=true&count_private=true&hide=stars&theme=radical&custom_title=MixFix7's%20%Github%20%Stats)
-
 ## Programming Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MixFix7&layout=compact&theme=radical) -->
 <div>
